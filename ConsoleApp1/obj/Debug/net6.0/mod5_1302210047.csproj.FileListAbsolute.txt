@@ -13,3 +13,11 @@ C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\ConsoleApp1\obj\Debug\net
 C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.pdb
 C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.genruntimeconfig.cache
 C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\ConsoleApp1\obj\Debug\net6.0\ref\mod5_1302210047.dll
+C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\Modul4\jurnalmod5_1302210047\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\Modul4\jurnalmod5_1302210047\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\Modul4\jurnalmod5_1302210047\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\Modul4\jurnalmod5_1302210047\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\Modul4\jurnalmod5_1302210047\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\Modul4\jurnalmod5_1302210047\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.dll
+C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\Modul4\jurnalmod5_1302210047\ConsoleApp1\obj\Debug\net6.0\refint\mod5_1302210047.dll
+C:\Users\PRAKTIKAN\Documents\Visual Studio 2022\Modul4\Modul4\jurnalmod5_1302210047\ConsoleApp1\obj\Debug\net6.0\mod5_1302210047.pdb

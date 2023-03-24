@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\ConsoleApp1\\mod5_1302210047.csproj": {}
+    "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\Modul4\\jurnalmod5_1302210047\\ConsoleApp1\\mod5_1302210047.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\ConsoleApp1\\mod5_1302210047.csproj": {
+    "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\Modul4\\jurnalmod5_1302210047\\ConsoleApp1\\mod5_1302210047.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\ConsoleApp1\\mod5_1302210047.csproj",
+        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\Modul4\\jurnalmod5_1302210047\\ConsoleApp1\\mod5_1302210047.csproj",
         "projectName": "mod5_1302210047",
-        "projectPath": "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\ConsoleApp1\\mod5_1302210047.csproj",
+        "projectPath": "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\Modul4\\jurnalmod5_1302210047\\ConsoleApp1\\mod5_1302210047.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\PRAKTIKAN\\Documents\\Visual Studio 2022\\Modul4\\Modul4\\jurnalmod5_1302210047\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
